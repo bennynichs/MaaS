@@ -1,6 +1,6 @@
 # MaaS
 
-MaaS stands for Memory as a Service. This is a project aimed at unifying
+MaaS stands for Memory as a Service. This is a project aimed at low friction life tracking. Proprietary information capture, aggregation and wisdom synthesis combined with existing tracking app integrations.
 
 ## Getting Started
 
